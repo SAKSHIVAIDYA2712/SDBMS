@@ -1,0 +1,147 @@
+#homepage {
+  /* background-color: rgb(166, 227, 214); */
+  /* background-color: lightblue; */
+  background-color: #d2f4ff;
+  /* font-family: Arial, Helvetica, sans-serif; */
+}
+
+.site-title {
+  padding-top: 17%;
+  padding-left: 10%;
+}
+
+.site-title h3 {
+  font-weight: 500;
+  text-transform: uppercase;
+}
+.site-title h1 {
+  font-size: 2.2rem;
+  text-transform: uppercase;
+  color: rgb(231, 50, 80);
+}
+.site-title h4 {
+  font-size: 1.3rem;
+  text-transform: uppercase;
+  font-weight: 10px;
+}
+
+.banner-image {
+  margin-top: 100px;
+}
+
+.title-text {
+  font-weight: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 45px;
+}
+
+.text-uppercase {
+  text-transform: uppercase;
+}
+.button {
+  padding: 0.8rem 2.5rem;
+  font: normal 500 16px/20px arial;
+  position: relative;
+  border: 3px solid transparent;
+  border-radius: 4px;
+}
+
+.primary-button {
+  background: rgb(231, 50, 80);
+  background-clip: padding-box;
+  color: whitesmoke;
+  transition: background 0.6s ease;
+  box-shadow: var(--box-shadow);
+}
+
+.primary-button:hover {
+  background: rgb(1, 87, 1);
+  color: aliceblue;
+  background-clip: padding-box;
+}
+
+.primary-button::after {
+  position: absolute;
+  top: -2px;
+  left: -2px;
+  bottom: -2px;
+  right: -2px;
+  background-color: var(--gradient-color);
+  content: "";
+  z-index: -1;
+  border-radius: 4px;
+}
+
+#check {
+  display: flex;
+  justify-content: space-around;
+}
+
+.card {
+  margin-top: 20px;
+  padding: 10px;
+}
+
+.about {
+  /* background: rgba(4, 142, 128, 0.517); */
+  background-color: rgb(4 110 142 / 90%);
+  margin-bottom: 10px;
+  height: 320px;
+  margin: 0;
+}
+
+/* #resultpage {
+  background-color: #d2f4ff;
+} */
+.hresult {
+  margin-top: 15px;
+}
+/* hr {
+  margin: 0px;
+} */
+.card-title {
+  color: rgb(231, 50, 80);
+}
+
+.sbtn {
+  margin-bottom: 14px;
+}
+.form1 {
+  padding: 35px;
+}
+
+.headingres {
+  padding-top: 15px;
+  color: red;
+}
+
+.form-control {
+  width: 40%;
+}
+
+.rtable {
+  background-color: rgb(4 110 142 / 90%);
+}
+
+.table {
+  color: aliceblue;
+}
+.note {
+  color: red;
+}
+
+.btn1 {
+  text-decoration: none;
+  color: aliceblue;
+}
+
+footer {
+  height: 50px;
+  width: 100%;
+  background-color: rgb(4 110 142 / 90%);
+}
+.footer-text {
+  padding-top: 15px;
+  color: white;
+}

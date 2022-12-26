@@ -1,0 +1,100 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  position: absolute;
+  max-width: 800px;
+  height: 709x;
+  margin: auto;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.leftpart {
+  position: relative;
+  background-image: linear-gradient(45deg, rgb(4 110 142 / 90%), #d2f4ff);
+  border-radius: 25px;
+  height: 100%;
+  padding: 30px;
+  /* color: rgb(192, 192, 192); */
+  color: white;
+  font-weight: 500;
+  font-size: 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.righpart {
+  position: relative;
+  background: #fff;
+  padding: 100px;
+  border-radius: 25px;
+  height: 100%;
+}
+
+.note {
+  color: red;
+}
+.butt {
+  background: linear-gradient(45deg, rgb(30, 30, 192), darkblue);
+  color: #fff;
+  width: 250px;
+  margin-left: 10px;
+  border: none;
+  border-radius: 25px;
+  padding: 10px;
+  -webkit-box-shadow: 0px 10px 41px -11px rgba(0, 0, 0, 0.7);
+  -moz-box-shadow: 0px 10px 41px -11px rgba(0, 0, 0, 0.7);
+  box-shadow: 0px 10px 41px -11px rgba(0, 0, 0, 0.7);
+}
+.row {
+  height: 100%;
+}
+.mycard {
+  position: relative;
+  background: #fff;
+  height: 100%;
+  border-radius: 25px;
+  -webkit-box-shadow: 0px 10px 40px -10px rgba(0, 0, 0, 0.7);
+  -moz-box-shadow: 0px 10px 40px -10px rgba(0, 0, 0, 0.7);
+  box-shadow: 0px 10px 40px -10px rgba(0, 0, 0, 0.7);
+}
+
+.box {
+  position: relative;
+  margin-top: 30px;
+}
+.myForm {
+  position: relative;
+  margin-top: 25px;
+}
+input[type="text"] {
+  width: 100%;
+  padding: 9px;
+  margin: 5px 0 10px 0;
+  display: inline-block;
+  border: none;
+  border-radius: 25px;
+  background: #f1f1f1;
+}
+.myInput:focus {
+  outline: none;
+}
+
+.login {
+  color: red;
+  text-decoration: none;
+}
+
+.login:hover {
+  color: #f1f1f1;
+}
+
+.quote {
+  color: darkblue;
+  font-family: "Slabo 27px", serif;
+}
