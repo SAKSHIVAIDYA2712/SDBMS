@@ -7,4 +7,4 @@
 ### This is the result section, if student enter correct email id, password and reg no. then the result will be displayed there itself
 
 <img width="946" alt="student-contactsection1" src="https://github.com/SAKSHIVAIDYA2712/SDBMS/assets/87131895/d0271f5d-9861-4063-892b-7406512b7e3b">
-### This is contact section, if student face any issue. 
+###  This is contact section, if student face any issue. 
