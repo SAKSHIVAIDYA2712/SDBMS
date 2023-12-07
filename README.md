@@ -1,4 +1,11 @@
-# Student's View
+## Login Page
+
+## IF student enter correct credentials, they will be directed to students view, if teacher enters valid credentials teacher will be directed to Teachers dashboard
+
+<img width="674" alt="login" src="https://github.com/SAKSHIVAIDYA2712/SDBMS/assets/87131895/10c58f65-031c-4727-9503-6d0327000404">
+
+
+## Student's View
 
 ## Student's Home Section view
 ## This is the student's view when they log in correctly using email and password.
