@@ -25,3 +25,8 @@
 ## Contact Section View
 ### This is the contact section if a student faces any issues. 
 <img width="946" alt="student-contactsection1" src="https://github.com/SAKSHIVAIDYA2712/SDBMS/assets/87131895/d0271f5d-9861-4063-892b-7406512b7e3b">
+
+## Teacher's View
+### Teacher can update, create and delete student's record from here
+<img width="954" alt="techer-dashboard" src="https://github.com/SAKSHIVAIDYA2712/SDBMS/assets/87131895/3f5d4ac6-9231-48a1-8a86-ca667238bcfa">
+
