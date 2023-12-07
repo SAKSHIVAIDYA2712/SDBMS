@@ -30,3 +30,5 @@
 ### Teacher can update, create and delete student's record from here
 <img width="954" alt="techer-dashboard" src="https://github.com/SAKSHIVAIDYA2712/SDBMS/assets/87131895/3f5d4ac6-9231-48a1-8a86-ca667238bcfa">
 
+
+
